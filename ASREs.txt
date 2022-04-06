@@ -1,6 +1,5 @@
 Cena,pena
 Cacto,monstruo
-Déjatelas con arroz,arroz con vegetales
 Vedo,dedo
 Quedo,dedo
 Teto,dedo
@@ -15,41 +14,25 @@ Un cacho,pena
 Y Pedro,limón
 Mostrar,monstruo
 Oooh necesitas una interna,linterna
-Arroz oooh Tales,arroz con vegetales
 No no no no,limón
-Horóscopos de letales de letales,arroz con vegetales
-Hablar con vegetales,arroz con vegetales
 Hazlos con veleta,arroz con vegetales
 Pero,monstruo
-Buenos días OK,linterna
 Texto,arroz con vegetales
 Terror,dedo
 Cuál era la comida favorita,arroz con vegetales
-Ya estoy voy a hacer todos,linterna
 Perdón,dedo
-Cohetes de interna,linterna
-Quién es ese que me,monstruo
 Bueno,dedo
 Salí,monstruo
-A quien decirle que me has tecas,linterna
-A Mouse and estás,oscuro
 Un beso,arroz con vegetales
-Where and and Speak,linterna
-Caca,pena
 Urano,oscuro
-Corazón,"papá,papa"
 Sí,linterna
-Se va a pis,linterna
-Facebook,monstruo
 Mi,limón
 Aló siempre de la tarde,arroz con vegetales
 Te,monstruo
 Tía,linterna
-Si no bien se irán,linterna
 Oooh oooh,limón
 Vas a estados,arroz con vegetales
 Mal mal todo,monstruo
-No no,linterna
 Hola,limón
 Oooh oooh,arroz con vegetales
 Claro,limón
@@ -60,13 +43,8 @@ Guay,arroz con vegetales
 Internet,linterna
 Un una una oooh una Nintendo,linterna
 Que el fin del fin,dedo
-Hola he ido no,limón
 Chicho,dedo
 Oooh muy bien muy bien,arroz con vegetales
-Guay guay saben nada,jugar
-Qué que qué que qué que qué,"papá,papa"
 Ay Just catarata,arroz con vegetales
 Aló copete tardes,arroz con vegetales
-Estoy en el bus para que no,jugar
 No hay Find sexy Five Ford Tri chu Want chao,monstruo
-Hay arroz y vegetales,arroz con vegetales
